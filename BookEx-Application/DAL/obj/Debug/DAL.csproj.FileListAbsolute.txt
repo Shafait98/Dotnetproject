@@ -1,0 +1,68 @@
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\DAL.dll.config
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\DAL.dll
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\DAL.pdb
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.dll
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.pdb
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.Migrations.initBookExDatabase.resources
+C:\Users\ahmed\Downloads\#Drafts .NET\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\DAL.dll.config
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\DAL.dll
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\DAL.pdb
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.Migrations.initBookExDatabase.resources
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.dll
+C:\Users\ahmed\Downloads\Programs\.NET-PROJECT\BookEx-Application\DAL\obj\Debug\DAL.pdb
+E:\Dot Net\Project\BookEx-Application\DAL\bin\Debug\DAL.dll.config
+E:\Dot Net\Project\BookEx-Application\DAL\bin\Debug\DAL.dll
+E:\Dot Net\Project\BookEx-Application\DAL\bin\Debug\DAL.pdb
+E:\Dot Net\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.dll
+E:\Dot Net\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dot Net\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.xml
+E:\Dot Net\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dot Net\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Dot Net\Project\BookEx-Application\DAL\obj\Debug\DAL.Migrations.initBookExDatabase.resources
+E:\Dot Net\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\Dot Net\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Dot Net\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Dot Net\Project\BookEx-Application\DAL\obj\Debug\DAL.dll
+E:\Dot Net\Project\BookEx-Application\DAL\obj\Debug\DAL.pdb
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\bin\Debug\DAL.dll.config
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\bin\Debug\DAL.dll
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\bin\Debug\DAL.pdb
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.dll
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.xml
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\obj\Debug\DAL.Migrations.initBookExDatabase.resources
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\obj\Debug\DAL.dll
+D:\10th semister\ADVANCED PROGRAMMING WITH .NET [B]\Project\Project\BookEx-Application\DAL\obj\Debug\DAL.pdb
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\bin\Debug\DAL.dll.config
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\bin\Debug\DAL.dll
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\bin\Debug\DAL.pdb
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.dll
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.xml
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\obj\Debug\DAL.dll
+C:\Users\farha\Downloads\project\Project\BookEx-Application\DAL\obj\Debug\DAL.pdb
